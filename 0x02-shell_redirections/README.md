@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 Write a script that displays the third line of the file iacta
  containing the text Best School ending by a new line.
 Write a script that writes into the file ls_cwd_content
+Write a script that duplicates the last line of the file iacta
